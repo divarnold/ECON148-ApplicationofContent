@@ -1,7 +1,7 @@
 Project Ideas:
-- Stock Screener (core)
-- How many publicly listed securities are there in the world and where? 
-- Chart with Trading Signals based on Bollinger Bands.
+- Stock Screener (core) - NEXT ON THE LIST.
+- How many publicly listed securities are there in the world and where? - FINISHED ("GlobalVisualExchange.ipnyb" utilized all_stock_exchanges_complete.json and stock_exchanges_coordinates.json)
+- Chart with Trading Signals based on Bollinger Bands. - THIRD ONE ON THE LIST BUT MAY INTERTWINE WITH STOCK SCREENER - LINDA RASHKE.
 
 
 Review of:
